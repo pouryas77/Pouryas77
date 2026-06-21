@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Pourya 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Pouryas77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/pouryas77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:pouryasadeghi777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/Pouryas77/Pouryas77/blob/main/assets/header.png" 
+  <img src="https://github.com/pouryas77/pouryas77/blob/main/assets/header.png" 
        alt="GitHub Profile Banner" 
        width="100%" 
        style="border-radius: 15px;"/>
@@ -32,14 +32,14 @@ Photonics Engineer with strong expertise in **Python** and **MATLAB** programmin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pouryas77&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouryas77&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pouryas77&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouryas77&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pouryas77&theme=radical&no-frame=true" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pouryas77&theme=radical&no-frame=true" alt="Trophies"/>
 </div>
 
 ### 🔬 About Me
