@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/[username]/[username]/blob/main/assets/header.png" 
+  <img src="https://github.com/Pouryas77/Pouryas77/blob/main/assets/header.png" 
        alt="GitHub Profile Banner" 
        width="100%" 
        style="border-radius: 15px;"/>
@@ -32,8 +32,8 @@ Photonics Engineer with strong expertise in **Python** and **MATLAB** programmin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pouryas77&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouryas77&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
 </div>
 
 ### 🏆 GitHub Trophies
