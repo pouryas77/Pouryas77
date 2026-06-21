@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Pourya 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/pouryas77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/pouyas77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:pouryasadeghi777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pouryas77/pouryas77/main/assets/header.png" 
+  <img src="https://raw.githubusercontent.com/pouyas77/pouyas77/main/assets/header.png" 
        alt="GitHub Profile Banner" 
        width="100%" 
        style="border-radius: 15px;"/>
