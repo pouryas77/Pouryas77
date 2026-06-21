@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Pouryas77👋</h1>
 
 <p align="center">
-  <a href="https://github.com/[Pouryas77]"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:[pouryasadeghi777@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Pouryas77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:pouryasadeghi777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -28,11 +28,9 @@ Photonics Engineer with strong expertise in **Python** and **MATLAB** programmin
 ### 🔬 About Me
 With a background in Photonics Engineering, I am passionate about writing clean, efficient, and scalable code. I enjoy solving complex problems — ranging from scientific computing to practical software development and data-driven projects across various domains.
 
-### 📊 Featured Projects
-(Pin your best repositories here)
 
 ### 📫 Get in Touch
-- Email: [your.email@example.com]
+- Email: pouryasadeghi777@gmail.com
 
 ---
 
